@@ -1,0 +1,1 @@
+export { ExternalComponent } from './external-component/external-component';
